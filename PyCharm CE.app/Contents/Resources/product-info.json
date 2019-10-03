@@ -1,0 +1,15 @@
+{
+  "name": "PyCharm",
+  "version": "2018.3.7",
+  "buildNumber": "183.6156.16",
+  "productCode": "PC",
+  "svgIconPath": "../bin/pycharm.svg",
+  "launch": [
+    {
+      "os": "macOS",
+      "launcherPath": "../MacOS/pycharm",
+      "javaExecutablePath": "../jdk/Contents/Home/jre/bin/java",
+      "vmOptionsFilePath": "../bin/pycharm.vmoptions"
+    }
+  ]
+}
